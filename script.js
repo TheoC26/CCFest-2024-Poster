@@ -123,7 +123,7 @@ objects.push(
       render: {
         fillStyle: "transparent",
         text: {
-          content: "January 18th 2024",
+          content: "Sunday January 28th 2024",
           color: "black",
           size: 32,
           family: "Arial",
