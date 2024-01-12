@@ -97,7 +97,7 @@ objects.push(
     Math.random() * matterContainer.clientWidth,
     500,
     700,
-    60,
+    70,
     {
       restitution: 0.8,
       render: {
@@ -116,8 +116,8 @@ objects.push(
   Matter.Bodies.rectangle(
     Math.random() * matterContainer.clientWidth,
     400,
-    260,
-    60,
+    390,
+    40,
     {
       restitution: 0.8,
       render: {
